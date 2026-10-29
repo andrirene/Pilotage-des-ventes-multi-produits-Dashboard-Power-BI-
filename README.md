@@ -14,7 +14,7 @@ Table de calendrier dédiée pour l'intelligence temporelle (évolution mensuell
 Mesures DAX : CA Total, Coût Total, Revenu Brut Total, Quantité Totale, Prix Moyen, Marge Brute %, % Atteinte Objectif, Évolution CA vs mois précédent
 Tableaux de bord
 
-Page 1 — Indicateurs clés
+Page 1 : Indicateurs clés
 
 Cartes KPI : CA Total, Coût Total, Revenu Brut Total, Quantité Totale, Prix Moyen
 Évolution du CA par mois, et évolution en % par rapport au mois précédent (mise en forme conditionnelle rouge/vert)
@@ -22,12 +22,12 @@ CA et quantités vendues par produit
 Carte géographique du CA par ville
 Répartition du CA par région administrative
 
-Page 2 — Suivi des objectifs
+Page 2 : Suivi des objectifs
 
 Comparaison CA réel vs objectif par produit (graphique + tableau avec icônes de mise en forme conditionnelle)
 Légende explicite des seuils de performance
 Principaux enseignements
-Tous les produits dépassent leur objectif de CA 2020, entre 157 % (T-shirt) et 263 % (Chaussure) de l'objectif fixé — un signal qui interroge soit sur le dimensionnement initial des objectifs, soit sur une performance commerciale particulièrement forte sur la période.
+Tous les produits dépassent leur objectif de CA 2020, entre 157 % (T-shirt) et 263 % (Chaussure) de l'objectif fixé, un signal qui interroge soit sur le dimensionnement initial des objectifs, soit sur une performance commerciale particulièrement forte sur la période.
 La Veste est le produit le plus générateur de chiffre d'affaires (plus de 80 000 €, soit environ un tiers du CA total), loin devant les autres catégories.
 Le CA mensuel présente une forte variabilité d'un mois à l'autre plutôt qu'une tendance linéaire, ce qui suggère un intérêt à creuser les facteurs saisonniers ou événementiels dans une prochaine itération du projet.
 Le chiffre d'affaires est réparti sur l'ensemble du territoire français, avec une présence dans la majorité des régions administratives plutôt qu'une concentration sur un seul bassin commercial.
