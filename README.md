@@ -38,3 +38,5 @@ Power Query : transformation et nettoyage des données
 Limites connues
 
 La colonne "Région administrative" reflète le découpage régional antérieur à la réforme de 2016. Ce choix est assumé et documenté plutôt que corrigé silencieusement.
+
+Projet réalisé par Irène ANDE
